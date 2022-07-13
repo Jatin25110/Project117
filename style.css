@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+span{
+    font-size: 18px;
+    margin-left: 20px;
+}
+span{
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+}
+span{
+    text-decoration-color: blueviolet;
+}
